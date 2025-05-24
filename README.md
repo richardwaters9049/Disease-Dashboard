@@ -1,1 +1,1 @@
-# Disease-Dashboard
+# Disease Dashboard
